@@ -1,7 +1,5 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customGradientList=0,0,0,0|25,0,212,255,0.45|50,99,102,241,0.45|75,0,212,255,0.45|100,0,0,0,1&height=260&section=header&text=Darshan%20Mathpal&fontAlignY=34&fontSize=70&fontColor=ffffff&stroke=00d4ff&strokeWidth=1.2&animation=fadeIn&desc=DATA%20ANALYST%20%E2%80%A2%20AI%20%26%20ML%20ENTHUSIAST%20%E2%80%A2%20INDIA&descAlignY=58&descSize=14&descColor=ffffff" />
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:8B5CF6&height=260&section=header&text=Darshan%20Mathpal&fontAlignY=34&fontSize=70&fontColor=ffffff&stroke=00d4ff&strokeWidth=1&animation=fadeIn&desc=DATA%20ANALYST%20%E2%80%A2%20AI%20%26%20ML%20ENTHUSIAST%20%E2%80%A2%20INDIA&descAlignY=58&descSize=14&descColor=ffffff" />
 
 <a href="https://git.io/typing-svg">
@@ -184,15 +182,6 @@ Tableau Data Visualization Business Intelligence
 <h3 align="center">MY LEARNING JOURNEY</h3>
 
 <div align="center">
-
-flowchart LR
-    A[Python] --> B[Data Analysis]
-    B --> C[SQL & Databases]
-    C --> D[Visualization]
-    D --> E[Machine Learning]
-    E --> F[Generative AI]
-    F --> G[RAG & AI Agents]
-    G --> H[AI Applications]
 
 ```mermaid
 flowchart LR
