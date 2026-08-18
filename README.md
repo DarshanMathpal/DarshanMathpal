@@ -56,7 +56,6 @@ Currently in my learning phase, focused on building a strong foundation in Data 
 
 - 🔭&nbsp; **Currently exploring:** RAG pipelines & multi-agent AI workflows
 - 🌱&nbsp; **Currently learning:** Python, SQL, and the fundamentals of Generative AI
-- 💬&nbsp; **Ask me about:** SQL, Data Analysis, Data Visualization
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,50:6366F1,100:C026D3&height=3&section=header" width="100%" />
 
