@@ -16,7 +16,7 @@
 
 <!-- PROFILE -->
 
-<table align="center">
+<!-- <table align="center"> -->
 <!-- <tr> -->
 <td align="center"><img src="https://img.shields.io/badge/ROLE-Data_%26_AI-2563EB?style=for-the-badge&logo=googleanalytics&logoColor=white" /></td>
 <td width="15"></td>
@@ -26,7 +26,7 @@
 <td width="15"></td>
 <td align="center"><img src="https://img.shields.io/badge/LOCATION-India-C026D3?style=for-the-badge&logo=googlemaps&logoColor=white" /></td>
 <!-- </tr> -->
-</table>
+<!-- </table> -->
 
 <br>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,50:6366F1,100:C026D3&height=4&section=header&text=&fontSize=0" width="90%" />
