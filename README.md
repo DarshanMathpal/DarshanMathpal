@@ -9,8 +9,6 @@
 <br>
 
 <img src="https://img.shields.io/badge/ROLE-Data_%26_AI-2563EB?style=for-the-badge&logo=googleanalytics&logoColor=white" />
-<img src="https://img.shields.io/badge/FOCUS-%F0%9F%A7%A0_AI_%26_ML-6366F1?style=for-the-badge&logo=googleanalytics&logoColor=white" />
-<img src="https://img.shields.io/badge/FOCUS-%F0%9F%92%A1_Problem_Solving-6366F1?style=for-the-badge&logo=googleanalytics&logoColor=white" />
 <!-- <img src="https://img.shields.io/badge/FOCUS-Machine_Learning-6366F1?style=for-the-badge&logo=tensorflow&logoColor=white" /> -->
 <img src="https://img.shields.io/badge/INTEREST-Generative_AI-8B5CF6?style=for-the-badge&logo=googlegemini&logoColor=white" />
 <img src="https://img.shields.io/badge/LOCATION-India-C026D3?style=for-the-badge&logo=googlemaps&logoColor=white" />
