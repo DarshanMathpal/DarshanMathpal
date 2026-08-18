@@ -2,24 +2,69 @@
 
 <!-- HEADER -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Darshan%20Mathpal&fontAlignY=38&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=DATA%20%7C%20AI%20%7C%20MACHINE%20LEARNING&descAlignY=58&descSize=18&descColor=ffffff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:6366F1,100:C026D3&height=280&section=header&text=Darshan%20Mathpal&fontAlignY=38&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=DATA%20%7C%20AI%20%7C%20MACHINE%20LEARNING&descAlignY=58&descSize=18&descColor=ffffff" />
 
 <br>
 
 <!-- TYPING INTRO -->
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=2600&pause=700&color=8B5CF6&center=true&vCenter=true&random=false&width=760&lines=Turning+data+into+insights;Building+AI-powered+solutions;Exploring+Generative+AI;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" alt="Typing SVG" />
-</a>
+<div align="center">
+
+<h3>Turning data into insights • Building AI-powered solutions</h3>
+
+<p>
+Exploring Generative AI &nbsp;•&nbsp; Learning &nbsp;•&nbsp; Building &nbsp;•&nbsp; Improving
+</p>
+
+</div>
 
 <br><br>
 
 <!-- PROFILE BADGES -->
 
-<img src="https://img.shields.io/badge/ROLE-Data_%26_AI-DBEAFE?style=for-the-badge&labelColor=2563EB&logo=googleanalytics&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/FOCUS-Data_%7C_AI_%7C_ML-EDE9FE?style=for-the-badge&labelColor=6366F1&logo=databricks&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/INTEREST-Generative_AI-FCE7F3?style=for-the-badge&labelColor=C026D3&logo=googlegemini&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/LOCATION-India-DCFCE7?style=for-the-badge&labelColor=16A34A&logo=googlemaps&logoColor=FFFFFF" />
+<table align="center">
+<tr>
+
+<td align="center">
+
+📊<br>
+<b>DATA & AI</b><br>
+<sub>Role</sub>
+
+</td>
+
+<td width="30"></td>
+
+<td align="center">
+
+🎯<br>
+<b>DATA • AI • ML</b><br>
+<sub>Focus</sub>
+
+</td>
+
+<td width="30"></td>
+
+<td align="center">
+
+✨<br>
+<b>GENERATIVE AI</b><br>
+<sub>Interest</sub>
+
+</td>
+
+<td width="30"></td>
+
+<td align="center">
+
+📍<br>
+<b>INDIA</b><br>
+<sub>Location</sub>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -32,63 +77,50 @@
 <br>
 
 <!-- ABOUT -->
-
 <div align="center">
 
 <h2>ABOUT</h2>
 
-<table align="center" width="120%">
+<table align="center" width="90%">
 <tr>
 
 <td width="50%" align="center" valign="top">
 
-📊 DATA
+### 📊 DATA
 
 <br>
 
-<img src="https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/Python-ffffff?style=flat-square&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/Pandas-ffffff?style=flat-square&logo=pandas&logoColor=150458" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Pandas-ffffff?style=for-the-badge&logo=pandas&logoColor=150458" />
+<img src="https://img.shields.io/badge/SQL-ffffff?style=flat-square&logo=postgresql&logoColor=336791" />
+<img src="https://img.shields.io/badge/Tableau-ffffff?style=flat-square&logo=tableau&logoColor=0F75BC" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/SQL-ffffff?style=for-the-badge&logo=postgresql&logoColor=336791" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Tableau-ffffff?style=for-the-badge&logo=tableau&logoColor=0F75BC" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Power_BI-ffffff?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
+<img src="https://img.shields.io/badge/Power_BI-ffffff?style=flat-square&logo=powerbi&logoColor=F2C811" />
 
 </td>
 
 <td width="50%" align="center" valign="top">
 
-🤖 AI
+### 🤖 AI
 
 <br>
 
-<img src="https://img.shields.io/badge/Generative_AI-ffffff?style=for-the-badge&logo=googlegemini&logoColor=6366F1" />
+<img src="https://img.shields.io/badge/Generative_AI-ffffff?style=flat-square&logo=googlegemini&logoColor=6366F1" />
+<img src="https://img.shields.io/badge/AI_Agents-ffffff?style=flat-square&logo=githubactions&logoColor=2563EB" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/AI_Agents-ffffff?style=for-the-badge&logo=githubactions&logoColor=2563EB" />
+<img src="https://img.shields.io/badge/RAG-ffffff?style=flat-square&logo=databricks&logoColor=FF3621" />
+<img src="https://img.shields.io/badge/FastAPI-ffffff?style=flat-square&logo=fastapi&logoColor=009688" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/RAG-ffffff?style=for-the-badge&logo=databricks&logoColor=FF3621" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/FastAPI-ffffff?style=for-the-badge&logo=fastapi&logoColor=009688" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Gemini-ffffff?style=for-the-badge&logo=google&logoColor=4285F4" />
+<img src="https://img.shields.io/badge/Gemini-ffffff?style=flat-square&logo=google&logoColor=4285F4" />
 
 </td>
 
@@ -96,8 +128,6 @@
 </table>
 
 </div>
-
-<br>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=6366f1&height=4&section=header&text=&fontSize=0&animation=flashing" width="100%" />
@@ -200,9 +230,7 @@ SQL PostgreSQL Database Design
 
 <br>
 
-<a href="https://github.com/DarshanMathpal">
-<img src="https://img.shields.io/badge/VIEW_ON_GITHUB-ffffff?style=for-the-badge&logo=github&logoColor=181717" />
-</a>
+<a href="https://github.com/DarshanMathpal/amazon-prime-video-database-design">
 
 </td>
 
@@ -218,9 +246,7 @@ Tableau Data Visualization Business Intelligence
 
 <br>
 
-<a href="https://github.com/DarshanMathpal">
-<img src="https://img.shields.io/badge/VIEW_ON_GITHUB-ffffff?style=for-the-badge&logo=github&logoColor=181717" />
-</a>
+<a href="https://github.com/DarshanMathpal/global-store-sales-tableau-dashboard">
 
 </td>
 
@@ -331,30 +357,6 @@ Cloud Deployment
 </div>
 
 <br>
-
-<!-- GITHUB STATS -->
-
-<div align="center">
-
-<h2>GITHUB STATS</h2>
-
-<br>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=DarshanMathpal&show_icons=true&theme=default&hide_border=true&title_color=2563EB&icon_color=6366F1&text_color=374151&bg_color=FFFFFF" />
-
-<img height="180" src="https://github-readme-streak-stats.demolab.com?user=DarshanMathpal&theme=default&hide_border=true&ring=2563EB&fire=6366F1&currStreakLabel=2563EB&sideLabels=6366F1&dates=6B7280&background=FFFFFF" />
-
-<br><br>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarshanMathpal&theme=default&hide_border=true&layout=compact&langs_count=8&title_color=2563EB&text_color=374151&bg_color=FFFFFF" />
-
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6366f1&height=4&section=header&text=&fontSize=0&animation=flashing" width="100%" />
-</div>
 
 <br>
 
