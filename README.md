@@ -271,7 +271,7 @@ Tableau Data Visualization Business Intelligence
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,50:6366F1,100:C026D3&height=90&section=header&text=CURRENTLY%20EXPLORING&fontSize=24&fontColor=ffffff&animation=fadeIn" />
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,50:6366F1,100:C026D3&height=90&section=header&text=CURRENTLY%20EXPLORING&fontSize=24&fontColor=ffffff&animation=fadeIn" /> -->
 
 <br><br>
 
