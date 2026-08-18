@@ -16,70 +16,76 @@
 
 <!-- PROFILE -->
 
-<td align="center"><img src="https://img.shields.io/badge/ROLE-Data_Analyst-2563EB?style=for-the-badge&logo=googleanalytics&logoColor=white" /></td>
-<td width="25"></td>
-<td align="center"><img src="https://img.shields.io/badge/FOCUS-Data_%26_AI-6366F1?style=for-the-badge&logo=python&logoColor=white" /></td>
-<td width="25"></td>
-<td align="center"><img src="https://img.shields.io/badge/INTEREST-Generative_AI-8B5CF6?style=for-the-badge&logo=googlegemini&logoColor=white" /></td>
-<td width="25"></td>
-<td align="center"><img src="https://img.shields.io/badge/LOCATION-India-C026D3?style=for-the-badge&logo=googlemaps&logoColor=white" /></td>
+<div align="center">
+
+<img src="https://img.shields.io/badge/ROLE-Data_%26_AI-2563EB?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/FOCUS-Data_%26_AI-6366F1?style=for-the-badge&logo=python&logoColor=white" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/INTEREST-Generative_AI-8B5CF6?style=for-the-badge&logo=googlegemini&logoColor=white" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/LOCATION-India-C026D3?style=for-the-badge&logo=googlemaps&logoColor=white" />
+
+</div>
 
 <br>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,50:6366F1,100:C026D3&height=4&section=header&text=&fontSize=0" width="90%" />
 <br><br>
 
 <!-- ABOUT -->
 
-<h2>ABOUT</h2>
+<h2 align="center">ABOUT</h2>
+
 <br>
 
-<table align="center" width="90%">
+<table align="center" width="92%">
 <tr>
+
 <td align="center" width="50%">
 
-<img src="https://img.shields.io/badge/%F0%9F%93%8A%20DATA-2563EB?style=for-the-badge&labelColor=2563EB&color=2563EB" />
+<img src="https://img.shields.io/badge/%F0%9F%93%8A%20DATA-2563EB?style=for-the-badge&logo=googleanalytics&logoColor=white" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Python-EEF2FF?style=for-the-badge&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/Pandas-EEF2FF?style=for-the-badge&logo=pandas&logoColor=150458" />
+<b>Turning raw data into useful insights</b>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/SQL-EEF2FF?style=for-the-badge&logo=postgresql&logoColor=336791" />
-<img src="https://img.shields.io/badge/Tableau-EEF2FF?style=for-the-badge&logo=tableau&logoColor=0F75BC" />
+<img src="https://img.shields.io/badge/Python-EEF2FF?style=flat-square&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/Pandas-EEF2FF?style=flat-square&logo=pandas&logoColor=150458" />
+<img src="https://img.shields.io/badge/SQL-EEF2FF?style=flat-square&logo=postgresql&logoColor=336791" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Power_BI-EEF2FF?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
+<img src="https://img.shields.io/badge/Tableau-EEF2FF?style=flat-square&logo=tableau&logoColor=0F75BC" />
+<img src="https://img.shields.io/badge/Power_BI-EEF2FF?style=flat-square&logo=powerbi&logoColor=F2C811" />
 
 </td>
 
 <td align="center" width="50%">
 
-<img src="https://img.shields.io/badge/%F0%9F%A4%96%20AI-6366F1?style=for-the-badge&labelColor=6366F1&color=6366F1" />
+<img src="https://img.shields.io/badge/%F0%9F%A4%96%20AI-6366F1?style=for-the-badge&logo=googlegemini&logoColor=white" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Generative_AI-EEF2FF?style=for-the-badge&logo=googlegemini&logoColor=6366F1" />
-<img src="https://img.shields.io/badge/AI_Agents-EEF2FF?style=for-the-badge&logo=githubactions&logoColor=2563EB" />
+<b>Building intelligent, AI-powered applications</b>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/RAG-EEF2FF?style=for-the-badge&logo=databricks&logoColor=FF3621" />
-<img src="https://img.shields.io/badge/FastAPI-EEF2FF?style=for-the-badge&logo=fastapi&logoColor=009688" />
+<img src="https://img.shields.io/badge/Generative_AI-EEF2FF?style=flat-square&logo=googlegemini&logoColor=6366F1" />
+<img src="https://img.shields.io/badge/AI_Agents-EEF2FF?style=flat-square&logo=githubactions&logoColor=2563EB" />
+<img src="https://img.shields.io/badge/RAG-EEF2FF?style=flat-square&logo=databricks&logoColor=FF3621" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Gemini-EEF2FF?style=for-the-badge&logo=google&logoColor=4285F4" />
+<img src="https://img.shields.io/badge/FastAPI-EEF2FF?style=flat-square&logo=fastapi&logoColor=009688" />
+<img src="https://img.shields.io/badge/Gemini-EEF2FF?style=flat-square&logo=google&logoColor=4285F4" />
 
 </td>
+
 </tr>
 </table>
-
-<br><br>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,50:6366F1,100:C026D3&height=4&section=header&text=&fontSize=0" width="90%" />
-<br><br>
 
 <!-- TECH STACK -->
 
@@ -121,7 +127,7 @@
 <tr>
 <td width="50%" valign="top">
 
-🤖 GitLab AI Content Engine
+<strong>🤖 GitLab AI Content Engine</strong>
 
 AI-powered documentation engine using technical inputs, retrieval, and multi-agent workflows.
 
@@ -140,7 +146,7 @@ CrewAI • ChromaDB • PostgreSQL
 
 <td width="50%" valign="top">
 
-📱 Play Store Review Analysis
+<strong>📱 Play Store Review Analysis</strong>
 
 Data analysis project exploring app information and user reviews to identify useful patterns and insights.
 
@@ -160,7 +166,7 @@ Python • Pandas • Data Analysis
 <tr>
 <td width="50%" valign="top">
 
-🗄️ Amazon Prime Database
+<strong>🗄️ Amazon Prime Database</strong>
 
 Relational database design project focused on schema structure, relationships, and SQL.
 
@@ -178,7 +184,7 @@ SQL • PostgreSQL • Database Design
 
 <td width="50%" valign="top">
 
-📈 Global Store Sales Dashboard
+<strong>📈 Global Store Sales Dashboard</strong>
 
 Interactive business dashboard exploring sales, profit, discounts, and performance.
 
@@ -202,93 +208,137 @@ Tableau • Data Visualization • Business Intelligence
 
 <!-- LEARNING JOURNEY -->
 
-<h2>MY LEARNING JOURNEY</h2>
+<h2 align="center">MY LEARNING JOURNEY</h2>
+
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,50:6366F1,100:C026D3&height=55&section=header&text=DATA%20%E2%86%92%20INTELLIGENCE%20%E2%86%92%20APPLICATIONS&fontSize=17&fontColor=ffffff&animation=fadeIn" width="85%" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,50:6366F1,100:C026D3&height=65&section=header&text=DATA%20%E2%86%92%20INTELLIGENCE%20%E2%86%92%20APPLICATIONS&fontSize=18&fontColor=ffffff&animation=fadeIn" width="90%" />
 
 <br><br>
 
-<table align="center" width="90%">
+<table align="center" width="92%">
 <tr>
 
 <td align="center" width="20%">
-<b>01</b><br><br>📊<br><br><b>DATA</b><br>Analysis<br>Visualization
+<b>01</b><br><br>
+📊<br><br>
+<b>DATA</b><br>
+<sub>Analysis • Visualization</sub>
 </td>
 
 <td align="center" width="20%">
-<b>02</b><br><br>🗄️<br><br><b>SQL</b><br>Databases<br>Business Intelligence
+<b>02</b><br><br>
+🗄️<br><br>
+<b>SQL & DATABASES</b><br>
+<sub>Queries • Business Intelligence</sub>
 </td>
 
 <td align="center" width="20%">
-<b>03</b><br><br>🤖<br><br><b>MACHINE LEARNING</b><br>Models<br>Prediction
+<b>03</b><br><br>
+🤖<br><br>
+<b>MACHINE LEARNING</b><br>
+<sub>Models • Prediction</sub>
 </td>
 
 <td align="center" width="20%">
-<b>04</b><br><br>✨<br><br><b>GENERATIVE AI</b><br>LLMs<br>RAG • Agents
+<b>04</b><br><br>
+✨<br><br>
+<b>GENERATIVE AI</b><br>
+<sub>LLMs • RAG • Agents</sub>
 </td>
 
 <td align="center" width="20%">
-<b>05</b><br><br>⚡<br><br><b>AI APPLICATIONS</b><br>APIs<br>Intelligent Systems
+<b>05</b><br><br>
+⚡<br><br>
+<b>AI APPLICATIONS</b><br>
+<sub>APIs • Intelligent Systems</sub>
 </td>
 
 </tr>
 </table>
 
 <br>
-<p><b>From working with data → to building intelligent applications.</b></p>
+
+<b>From working with data → to building intelligent applications.</b>
+
+</div>
 
 <br><br>
 
 <!-- CURRENTLY BUILDING & EXPLORING -->
 
-<h2>CURRENTLY BUILDING & EXPLORING</h2>
+<h2 align="center">CURRENTLY BUILDING & EXPLORING</h2>
+
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,50:6366F1,100:C026D3&height=55&section=header&text=WHAT%20I%27M%20WORKING%20ON&fontSize=18&fontColor=ffffff&animation=fadeIn" width="85%" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,50:6366F1,100:C026D3&height=65&section=header&text=WHAT%20I%27M%20WORKING%20ON&fontSize=18&fontColor=ffffff&animation=fadeIn" width="90%" />
 
 <br><br>
 
-<table align="center" width="90%">
+<table align="center" width="92%">
 <tr>
 
 <td align="center" width="33%">
+
 <img src="https://img.shields.io/badge/AI-6366F1?style=for-the-badge&logo=googlegemini&logoColor=white" />
+
 <br><br>
-<b>Generative AI</b>
+
+<b>GENERATIVE AI</b>
+
 <br><br>
+
 LLM Applications<br>
 RAG<br>
 AI Agents
+
 </td>
 
 <td align="center" width="34%">
+
 <img src="https://img.shields.io/badge/DATA-2563EB?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+
 <br><br>
-<b>Data & Analytics</b>
+
+<b>DATA & ANALYTICS</b>
+
 <br><br>
+
 Data Analysis<br>
 SQL<br>
 Visualization<br>
 Business Intelligence
+
 </td>
 
 <td align="center" width="33%">
+
 <img src="https://img.shields.io/badge/BUILDING-8B5CF6?style=for-the-badge&logo=fastapi&logoColor=white" />
+
 <br><br>
-<b>AI Applications</b>
+
+<b>AI APPLICATIONS</b>
+
 <br><br>
+
 Python APIs<br>
 Backend Workflows<br>
 Cloud Deployment
+
 </td>
 
 </tr>
 </table>
 
+</div>
+
 <br><br>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,50:6366F1,100:C026D3&height=4&section=header&text=&fontSize=0" width="90%" />
-<br><br>
 
 <!-- CONNECTION -->
 
