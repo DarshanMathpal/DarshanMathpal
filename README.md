@@ -69,7 +69,8 @@
 
 <br><br>
 
-<b>Building intelligent, AI-powered applications</b>
+<b>Building intelligent, 
+AI-powered applications</b>
 
 <br><br>
 
