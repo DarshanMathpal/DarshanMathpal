@@ -26,7 +26,7 @@
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rectangles&color=2563eb&height=4&section=header&text=&fontSize=0&animation=flashing" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2563eb&height=4&section=header&text=&fontSize=0&animation=flashing" width="100%" />
 </div>
 
 <br>
@@ -37,7 +37,7 @@
 
 <h2>ABOUT</h2>
 
-<table align="center">
+<table align="center" width="80%">
 <tr>
 
 <td width="50%" align="center" valign="top">
@@ -100,7 +100,7 @@
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rectangles&color=6366f1&height=4&section=header&text=&fontSize=0&animation=flashing" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6366f1&height=4&section=header&text=&fontSize=0&animation=flashing" width="100%" />
 </div>
 
 <br>
@@ -134,7 +134,7 @@
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rectangles&color=00d4ff&height=4&section=header&text=&fontSize=0&animation=flashing" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00d4ff&height=4&section=header&text=&fontSize=0&animation=flashing" width="100%" />
 </div>
 
 <br>
@@ -232,7 +232,7 @@ Tableau Data Visualization Business Intelligence
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rectangles&color=8b5cf6&height=4&section=header&text=&fontSize=0&animation=flashing" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8b5cf6&height=4&section=header&text=&fontSize=0&animation=flashing" width="100%" />
 </div>
 
 <br>
@@ -240,8 +240,14 @@ Tableau Data Visualization Business Intelligence
 <!-- LEARNING JOURNEY -->
 
 <div align="center">
+  
+<h2 align="center">MY LEARNING JOURNEY</h2>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=header&text=MY%20LEARNING%20JOURNEY&fontSize=30&fontColor=ffffff&animation=fadeIn" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:8B5CF6&height=4&section=header&text=&fontSize=0" width="70%" />
+
+</div>
 
 <br><br>
 
@@ -265,7 +271,7 @@ Tableau Data Visualization Business Intelligence
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rectangles&color=0:2563EB,50:6366F1,100:C026D3&height=90&section=header&text=CURRENTLY%20EXPLORING&fontSize=24&fontColor=ffffff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,50:6366F1,100:C026D3&height=90&section=header&text=CURRENTLY%20EXPLORING&fontSize=24&fontColor=ffffff&animation=fadeIn" />
 
 <br><br>
 
@@ -313,7 +319,7 @@ Cloud Deployment
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rectangles&color=2563eb&height=4&section=header&text=&fontSize=0&animation=flashing" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2563eb&height=4&section=header&text=&fontSize=0&animation=flashing" width="100%" />
 </div>
 
 <br>
@@ -339,7 +345,7 @@ Cloud Deployment
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rectangles&color=6366f1&height=4&section=header&text=&fontSize=0&animation=flashing" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6366f1&height=4&section=header&text=&fontSize=0&animation=flashing" width="100%" />
 </div>
 
 <br>
