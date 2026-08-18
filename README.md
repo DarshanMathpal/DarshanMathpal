@@ -17,7 +17,7 @@
 <!-- PROFILE -->
 
 <!-- <table align="center"> -->
-<!-- <tr> -->
+<tr>
 <td align="center"><img src="https://img.shields.io/badge/ROLE-Data_%26_AI-2563EB?style=for-the-badge&logo=googleanalytics&logoColor=white" /></td>
 <td width="15"></td>
 <td align="center"><img src="https://img.shields.io/badge/FOCUS-Data_%26_AI-6366F1?style=for-the-badge&logo=python&logoColor=white" /></td>
@@ -25,7 +25,7 @@
 <td align="center"><img src="https://img.shields.io/badge/INTEREST-Generative_AI-8B5CF6?style=for-the-badge&logo=googlegemini&logoColor=white" /></td>
 <td width="15"></td>
 <td align="center"><img src="https://img.shields.io/badge/LOCATION-India-C026D3?style=for-the-badge&logo=googlemaps&logoColor=white" /></td>
-<!-- </tr> -->
+</tr>
 <!-- </table> -->
 
 <br>
