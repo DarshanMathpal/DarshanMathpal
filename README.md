@@ -1,4 +1,6 @@
 <div align="center">
+    
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:8B5CF6&height=300&section=header&text=Darshan%20Mathpal&fontSize=70&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=DATA%20%7C%20AI%20%7C%20MACHINE%20LEARNING&descAlignY=58&descSize=18&descColor=ffffff" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:8B5CF6&height=260&section=header&text=Darshan%20Mathpal&fontAlignY=34&fontSize=70&fontColor=ffffff&stroke=00d4ff&strokeWidth=1&animation=fadeIn&desc=DATA%20ANALYST%20%E2%80%A2%20AI%20%26%20ML%20ENTHUSIAST%20%E2%80%A2%20INDIA&descAlignY=58&descSize=14&descColor=ffffff" />
 
