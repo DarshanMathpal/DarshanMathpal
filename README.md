@@ -16,8 +16,8 @@
 
 <!-- PROFILE -->
 
-<td align="center"><img src="https://img.shields.io/badge/ROLE-Data_%26_AI-2563EB?style=for-the-badge&logo=googleanalytics&logoColor=white" /></td>
-<td width="50"></td>
+<td align="center"><img src="https://img.shields.io/badge/ROLE-Data_%26_Analyst-2563EB?style=for-the-badge&logo=googleanalytics&logoColor=white" /></td>
+<td width="25"></td>
 <td align="center"><img src="https://img.shields.io/badge/FOCUS-Data_%26_AI-6366F1?style=for-the-badge&logo=python&logoColor=white" /></td>
 <td width="25"></td>
 <td align="center"><img src="https://img.shields.io/badge/INTEREST-Generative_AI-8B5CF6?style=for-the-badge&logo=googlegemini&logoColor=white" /></td>
