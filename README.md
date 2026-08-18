@@ -37,7 +37,7 @@
 
 <h2>ABOUT</h2>
 
-<table align="center" width="80%">
+<table align="center" width="120%">
 <tr>
 
 <td width="50%" align="center" valign="top">
@@ -280,8 +280,6 @@ Tableau Data Visualization Business Intelligence
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:8B5CF6&height=4&section=header&text=&fontSize=0" width="70%" />
 
 </div>
-
-<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,50:6366F1,100:C026D3&height=90&section=header&text=CURRENTLY%20EXPLORING&fontSize=24&fontColor=ffffff&animation=fadeIn" /> -->
 
 <br><br>
 
