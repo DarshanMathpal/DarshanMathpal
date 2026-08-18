@@ -10,55 +10,62 @@
 
 <div align="center">
 
-<h3>Turning data into insights • Building AI-powered solutions</h3>
+<h3>Turning Data Into Insights</h3>
 
 <p>
-Exploring Generative AI &nbsp;•&nbsp; Learning &nbsp;•&nbsp; Building &nbsp;•&nbsp; Improving
+Building AI-Powered Solutions &nbsp;•&nbsp; Exploring Generative AI
+</p>
+
+<p>
+<sub>Learning • Building • Improving</sub>
 </p>
 
 </div>
-
 <br><br>
 
 <!-- PROFILE BADGES -->
 
+<div align="center">
+
 <table align="center">
 <tr>
 
-<td align="center">
+<td align="center" width="25%">
 
-📊<br>
-<b>DATA & AI</b><br>
+📊
+
+### DATA & AI
+
 <sub>Role</sub>
 
 </td>
 
-<td width="30"></td>
+<td align="center" width="25%">
 
-<td align="center">
+🎯
 
-🎯<br>
-<b>DATA • AI • ML</b><br>
+### DATA • AI • ML
+
 <sub>Focus</sub>
 
 </td>
 
-<td width="30"></td>
+<td align="center" width="25%">
 
-<td align="center">
+✨
 
-✨<br>
-<b>GENERATIVE AI</b><br>
+### GENERATIVE AI
+
 <sub>Interest</sub>
 
 </td>
 
-<td width="30"></td>
+<td align="center" width="25%">
 
-<td align="center">
+📍
 
-📍<br>
-<b>INDIA</b><br>
+### INDIA
+
 <sub>Location</sub>
 
 </td>
@@ -67,7 +74,6 @@ Exploring Generative AI &nbsp;•&nbsp; Learning &nbsp;•&nbsp; Building &nbsp;
 </table>
 
 </div>
-
 <br>
 
 <div align="center">
@@ -84,53 +90,39 @@ Exploring Generative AI &nbsp;•&nbsp; Learning &nbsp;•&nbsp; Building &nbsp;
 <table align="center" width="90%">
 <tr>
 
-<td width="50%" align="center" valign="top">
+<td align="center" width="50%">
 
-### 📊 DATA
+## 📊 DATA
+
+**Data Analysis**  
+**SQL & Databases**  
+**Business Intelligence**  
+**Data Visualization**
 
 <br>
 
-<img src="https://img.shields.io/badge/Python-ffffff?style=flat-square&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/Pandas-ffffff?style=flat-square&logo=pandas&logoColor=150458" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/SQL-ffffff?style=flat-square&logo=postgresql&logoColor=336791" />
-<img src="https://img.shields.io/badge/Tableau-ffffff?style=flat-square&logo=tableau&logoColor=0F75BC" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Power_BI-ffffff?style=flat-square&logo=powerbi&logoColor=F2C811" />
+Python • Pandas • SQL • Tableau • Power BI
 
 </td>
 
-<td width="50%" align="center" valign="top">
+<td align="center" width="50%">
 
-### 🤖 AI
+## 🤖 AI
+
+**Generative AI**  
+**LLM Applications**  
+**RAG & AI Agents**  
+**AI-Powered Applications**
 
 <br>
 
-<img src="https://img.shields.io/badge/Generative_AI-ffffff?style=flat-square&logo=googlegemini&logoColor=6366F1" />
-<img src="https://img.shields.io/badge/AI_Agents-ffffff?style=flat-square&logo=githubactions&logoColor=2563EB" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/RAG-ffffff?style=flat-square&logo=databricks&logoColor=FF3621" />
-<img src="https://img.shields.io/badge/FastAPI-ffffff?style=flat-square&logo=fastapi&logoColor=009688" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Gemini-ffffff?style=flat-square&logo=google&logoColor=4285F4" />
+Gemini • FastAPI • CrewAI • ChromaDB
 
 </td>
 
 </tr>
 </table>
 
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6366f1&height=4&section=header&text=&fontSize=0&animation=flashing" width="100%" />
 </div>
 
 <br>
