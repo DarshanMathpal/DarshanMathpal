@@ -74,8 +74,8 @@ Currently in my learning phase, focused on building a strong foundation in Data 
 <td>
 <img src="https://img.shields.io/badge/Pandas-EEF2FF?style=flat-square&logo=pandas&logoColor=150458" />
 <img src="https://img.shields.io/badge/NumPy-EEF2FF?style=flat-square&logo=numpy&logoColor=013243" />
-<img src="https://img.shields.io/badge/Tableau-EEF2FF?style=flat-square&logo=tableau&logoColor=0F75BC" />
-<img src="https://img.shields.io/badge/Power_BI-EEF2FF?style=flat-square&logo=powerbi&logoColor=F2C811" />
+<img src="https://img.shields.io/badge/Tableau-EEF2FF?style=flat-square&logo=tableau&logoColor=0176D3" />
+<img src="https://img.shields.io/badge/Power_BI-EEF2FF?style=flat-square&logo=power-bi&logoColor=F2C811" />
 </td>
 </tr>
 <tr>
