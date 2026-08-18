@@ -16,7 +16,7 @@
 
 <!-- PROFILE -->
 
-<td align="center"><img src="https://img.shields.io/badge/ROLE-Data_%26_Analyst-2563EB?style=for-the-badge&logo=googleanalytics&logoColor=white" /></td>
+<td align="center"><img src="https://img.shields.io/badge/ROLE-Data_Analyst-2563EB?style=for-the-badge&logo=googleanalytics&logoColor=white" /></td>
 <td width="25"></td>
 <td align="center"><img src="https://img.shields.io/badge/FOCUS-Data_%26_AI-6366F1?style=for-the-badge&logo=python&logoColor=white" /></td>
 <td width="25"></td>
