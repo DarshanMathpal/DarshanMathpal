@@ -1,6 +1,6 @@
 <div align="center">
     
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:8B5CF6&height=300&section=header&text=Darshan%20Mathpal&fontSize=70&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=DATA%20%7C%20AI%20%7C%20MACHINE%20LEARNING&descAlignY=58&descSize=18&descColor=ffffff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Darshan%20Mathpal&fontAlignY=38&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=DATA%20%7C%20AI%20%7C%20MACHINE%20LEARNING&descAlignY=58&descSize=18&descColor=ffffff" />
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=700&color=2563EB&center=true&vCenter=true&random=false&width=720&lines=Turning+data+into+insights;Building+AI-powered+solutions;Exploring+Generative+AI;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" alt="Typing SVG" />
