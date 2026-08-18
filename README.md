@@ -46,8 +46,6 @@
 
 <img src="https://img.shields.io/badge/%F0%9F%93%8A%20DATA-2563EB?style=for-the-badge&logo=googleanalytics&logoColor=white" />
 
-<br><br>
-
 <b>Turning raw data into useful insights</b>
 
 <img src="https://img.shields.io/badge/Python-EEF2FF?style=flat-square&logo=python&logoColor=3776AB" />
