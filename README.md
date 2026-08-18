@@ -2,8 +2,6 @@
     
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:8B5CF6&height=300&section=header&text=Darshan%20Mathpal&fontSize=70&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=DATA%20%7C%20AI%20%7C%20MACHINE%20LEARNING&descAlignY=58&descSize=18&descColor=ffffff" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:8B5CF6&height=260&section=header&text=Darshan%20Mathpal&fontAlignY=34&fontSize=70&fontColor=ffffff&stroke=00d4ff&strokeWidth=1&animation=fadeIn&desc=DATA%20ANALYST%20%E2%80%A2%20AI%20%26%20ML%20ENTHUSIAST%20%E2%80%A2%20INDIA&descAlignY=58&descSize=14&descColor=ffffff" />
-
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=700&color=2563EB&center=true&vCenter=true&random=false&width=720&lines=Turning+data+into+insights;Building+AI-powered+solutions;Exploring+Generative+AI;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" alt="Typing SVG" />
 </a>
@@ -181,68 +179,66 @@ Tableau Data Visualization Business Intelligence
 
 <br>
 
-<h3 align="center">MY LEARNING JOURNEY</h3>
-
 <div align="center">
 
-```mermaid
-flowchart LR
-    A[Python] --> B[Data Analysis]
-    B --> C[SQL & Databases]
-    C --> D[Visualization]
-    D --> E[Machine Learning]
-    E --> F[Generative AI]
-    F --> G[RAG & AI Agents]
-    G --> H[AI Applications]
-```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,50:6366F1,100:C026D3&height=130&section=header&text=MY%20LEARNING%20JOURNEY&fontSize=28&fontColor=ffffff&animation=fadeIn" />
 
-</div>
+<br><br>
+
+### 🐍 Python
+**→** 📊 **Data Analysis**
+**→** 🗄️ **SQL & Databases**
+**→** 📈 **Visualization**
+**→** 🧠 **Machine Learning**
+**→** 🤖 **Generative AI**
+**→** 🔎 **RAG & AI Agents**
+**→** ⚡ **AI Applications**
 
 <br>
 
-<h3 align="center">CURRENTLY EXPLORING</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,50:6366F1,100:8B5CF6&height=90&section=header&text=CURRENTLY%20EXPLORING&fontSize=24&fontColor=ffffff&animation=fadeIn" />
+
+<br><br>
 
 <table>
 <tr>
+
 <td align="center" width="33%">
 
-🤖 AI
+### 🤖 AI
 
-Generative AI
-LLM Applications
-AI Agents
+Generative AI  
+LLM Applications  
+AI Agents  
 RAG
 
 </td>
 
 <td align="center" width="34%">
 
-📊 DATA
+### 📊 DATA
 
-Data Analysis
-Visualization
-SQL
+Data Analysis  
+Visualization  
+SQL  
 Business Intelligence
 
 </td>
 
 <td align="center" width="33%">
 
-⚙️ BUILDING
+### ⚙️ BUILDING
 
-Python APIs
-AI Applications
-Backend Workflows
+Python APIs  
+AI Applications  
+Backend Workflows  
 Cloud Deployment
 
 </td>
+
 </tr>
 </table>
 
-<br>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rectangles&color=2563eb&height=4&section=header&text=&fontSize=0&animation=flashing" width="100%" />
 </div>
 
 <br>
