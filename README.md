@@ -39,7 +39,7 @@
 
 <br>
 
-<table align="center" width="92%">
+<table align="center" width="150%">
 <tr>
 
 <td align="center" width="50%">
@@ -50,13 +50,9 @@
 
 <b>Turning raw data into useful insights</b>
 
-<br><br>
-
 <img src="https://img.shields.io/badge/Python-EEF2FF?style=flat-square&logo=python&logoColor=3776AB" />
 <img src="https://img.shields.io/badge/Pandas-EEF2FF?style=flat-square&logo=pandas&logoColor=150458" />
 <img src="https://img.shields.io/badge/SQL-EEF2FF?style=flat-square&logo=postgresql&logoColor=336791" />
-
-<br><br>
 
 <img src="https://img.shields.io/badge/Tableau-EEF2FF?style=flat-square&logo=tableau&logoColor=0F75BC" />
 <img src="https://img.shields.io/badge/Power_BI-EEF2FF?style=flat-square&logo=powerbi&logoColor=F2C811" />
@@ -67,19 +63,13 @@
 
 <img src="https://img.shields.io/badge/%F0%9F%A4%96%20AI-6366F1?style=for-the-badge&logo=googlegemini&logoColor=white" />
 
-<br><br>
 
 <b>Building intelligent, 
 AI-powered applications</b>
 
-<br><br>
-
 <img src="https://img.shields.io/badge/Generative_AI-EEF2FF?style=flat-square&logo=googlegemini&logoColor=6366F1" />
 <img src="https://img.shields.io/badge/AI_Agents-EEF2FF?style=flat-square&logo=githubactions&logoColor=2563EB" />
 <img src="https://img.shields.io/badge/RAG-EEF2FF?style=flat-square&logo=databricks&logoColor=FF3621" />
-
-<br><br>
-
 <img src="https://img.shields.io/badge/FastAPI-EEF2FF?style=flat-square&logo=fastapi&logoColor=009688" />
 <img src="https://img.shields.io/badge/Gemini-EEF2FF?style=flat-square&logo=google&logoColor=4285F4" />
 
