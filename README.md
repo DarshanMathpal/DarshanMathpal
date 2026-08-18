@@ -232,7 +232,7 @@ SQL PostgreSQL Database Design
 
 <a href="https://github.com/DarshanMathpal/amazon-prime-video-database-design">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-ffffff?style=for-the-badge&logo=github&logoColor=181717" />
-a>
+</a>
 
 </td>
 
@@ -250,7 +250,7 @@ Tableau Data Visualization Business Intelligence
 
 <a href="https://github.com/DarshanMathpal/global-store-sales-tableau-dashboard">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-ffffff?style=for-the-badge&logo=github&logoColor=181717" />
-a>
+</a>
 
 </td>
 
