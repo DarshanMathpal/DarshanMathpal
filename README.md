@@ -199,8 +199,8 @@ Interactive business dashboard exploring sales, profit, discounts, and performan
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=DarshanMathpal&label=PROFILE%20VIEWS&color=6366F1&style=flat" />
+<!-- <img src="https://komarev.com/ghpvc/?username=DarshanMathpal&label=PROFILE%20VIEWS&color=6366F1&style=flat" />
 
-</div>
+</div> -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:6366F1,100:C026D3&height=140&section=footer&text=Thanks%20for%20stopping%20by%20%E2%9C%A8&fontSize=16&fontColor=ffffff&animation=fadeIn" />
