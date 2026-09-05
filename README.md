@@ -183,7 +183,7 @@ Interactive business dashboard exploring sales, profit, discounts, and performan
   <img src="https://img.shields.io/badge/LINKEDIN-EEF2FF?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
 
-<br><br>
+<!-- <br><br> -->
 
 ## &nbsp;&nbsp;📈&nbsp; GitHub Stats
 
