@@ -192,9 +192,7 @@ Interactive business dashboard exploring sales, profit, discounts, and performan
 <a href="mailto:darshanpersonal07@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-EEF2FF?style=for-the-badge&logo=gmail&logoColor=EA4335" />
 </a>
-<!-- <a href="https://github.com/DarshanMathpal">
-  <img src="https://img.shields.io/badge/GITHUB-EEF2FF?style=for-the-badge&logo=github&logoColor=181717" />
-</a> -->
+
 <a href="https://www.linkedin.com/in/darshan-mathpal-5172283a8/">
   <img src="https://img.shields.io/badge/LINKEDIN-EEF2FF?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
