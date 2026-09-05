@@ -173,6 +173,18 @@ Interactive business dashboard exploring sales, profit, discounts, and performan
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,50:6366F1,100:C026D3&height=3&section=header" width="100%" />
 
+## &nbsp;&nbsp;📬&nbsp; Let's Connect
+
+<a href="mailto:darshanpersonal07@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-EEF2FF?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
+
+<a href="https://www.linkedin.com/in/darshan-mathpal-5172283a8/">
+  <img src="https://img.shields.io/badge/LINKEDIN-EEF2FF?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+
+<br><br>
+
 ## &nbsp;&nbsp;📈&nbsp; GitHub Stats
 
 <div align="center">
@@ -186,18 +198,6 @@ Interactive business dashboard exploring sales, profit, discounts, and performan
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,50:6366F1,100:C026D3&height=3&section=header" width="100%" />
 
 <div align="center">
-
-## &nbsp;&nbsp;📬&nbsp; Let's Connect
-
-<a href="mailto:darshanpersonal07@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-EEF2FF?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-</a>
-
-<a href="https://www.linkedin.com/in/darshan-mathpal-5172283a8/">
-  <img src="https://img.shields.io/badge/LINKEDIN-EEF2FF?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-</a>
-
-<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=DarshanMathpal&label=PROFILE%20VIEWS&color=6366F1&style=flat" />
 
