@@ -23,7 +23,7 @@
 
 ## &nbsp;&nbsp;📌&nbsp; About Me
 
-Currently in my learning phase, focused on building a strong foundation in Data & AI. I enjoy working with data to find patterns and insights, and I'm exploring how modern AI — LLMs, RAG, and AI agents — can be used to build smart, practical applications.
+Currently in my learning phase, focused on building a strong foundation in Data Science & AI. I enjoy working with data to find patterns and insights, and I'm exploring how modern AI — LLMs, RAG, and AI agents — can be used to build smart, practical applications.
 
 <table width="100%">
 <tr>
