@@ -186,7 +186,6 @@ Interactive business dashboard exploring sales, profit, discounts, and performan
 </a>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,50:6366F1,100:C026D3&height=3&section=header" width="100%" />
-
 ## &nbsp;&nbsp;📬&nbsp; Let's Connect
 
 <a href="mailto:darshanpersonal07@gmail.com">
@@ -196,13 +195,7 @@ Interactive business dashboard exploring sales, profit, discounts, and performan
 <br>
 
 <a href="https://www.linkedin.com/in/darshan-mathpal-5172283a8/">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg"
-       width="22"
-       height="22"
-       alt="LinkedIn"
-       style="vertical-align: middle;" />
-  <img src="https://img.shields.io/badge/LINKEDIN-EEF2FF?style=for-the-badge"
-       style="vertical-align: middle;" />
+  <img src="https://img.shields.io/badge/LINKEDIN-EEF2FF?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
 
 <br><br>
