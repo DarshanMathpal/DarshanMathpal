@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:6366F1,100:C026D3&height=260&section=header&text=Darshan%20Mathpal&fontAlignY=38&fontSize=64&fontColor=ffffff&animation=fadeIn&desc=DATASCIENCE%20%7C%20AI%20%7C%20MACHINE%20LEARNING&descAlignY=58&descSize=17&descColor=ffffff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:6366F1,100:C026D3&height=260&section=header&text=Darshan%20Mathpal&fontAlignY=38&fontSize=64&fontColor=ffffff&animation=fadeIn&desc=DATA%20SCIENCE%20%7C%20AI%20%7C%20MACHINE%20LEARNING&descAlignY=58&descSize=17&descColor=ffffff" />
 
 <a href="https://readme-typing-svg.demolab.com/">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=14&duration=3200&pause=1000&color=6366F1&center=true&vCenter=true&width=800&height=50&lines=TURNING+DATA+INTO+INSIGHTS;BUILDING+AI-POWERED+SOLUTIONS;EXPLORING+GENERATIVE+AI;LEARN+%E2%80%A2+BUILD+%E2%80%A2+IMPROVE" alt="Typing SVG" />
