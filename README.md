@@ -195,7 +195,7 @@ Interactive business dashboard exploring sales, profit, discounts, and performan
 <a href="https://github.com/DarshanMathpal">
   <img src="https://img.shields.io/badge/GITHUB-EEF2FF?style=for-the-badge&logo=github&logoColor=181717" />
 </a>
-<a href="https://www.linkedin.com/in/darshan-m-5172283a8/">
+<a href="https://www.linkedin.com/in/darshan-mathpal-5172283a8">
   <img src="https://img.shields.io/badge/LINKEDIN-EEF2FF?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
 
