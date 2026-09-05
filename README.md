@@ -185,8 +185,6 @@ Interactive business dashboard exploring sales, profit, discounts, and performan
 </a>
 </div>
 
-<br><br>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,50:6366F1,100:C026D3&height=3&section=header" width="100%" />
 
 ## &nbsp;&nbsp;📈&nbsp; GitHub Stats
