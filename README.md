@@ -181,8 +181,8 @@ Interactive business dashboard exploring sales, profit, discounts, and performan
 
 <br>
 
-<a href="[https://www.linkedin.com/in/darshan-mathpal-5172283a/](https://www.linkedin.com/in/darshan-mathpal-ds/)">
-  <img src="https://img.shields.io/badge/LINKEDIN-EEF2FF?style=for-the-badge&logo=linkedin&logoColor=0A66C2&logoSize=auto" />
+<a href="https://www.linkedin.com/in/darshan-mathpal-ds/">
+  <img src="https://img.shields.io/badge/LinkedIn-EEF2FF?style=for-the-badge&logo=linkedin&logoColor=0A66C2&logoSize=auto" />
 </a>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,50:6366F1,100:C026D3&height=3&section=header" width="100%" />
